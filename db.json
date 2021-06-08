@@ -1,5 +1,5 @@
 {
-  "konsole": [
+  "konsola": [
     { "id": 1, "nazwa": "nintendo64" },
     { "id": 2, "nazwa": "gamecube" },
     { "id": 3, "nazwa": "nes" }
